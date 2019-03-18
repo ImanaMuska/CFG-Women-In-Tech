@@ -1,0 +1,17 @@
+body {
+  color: rgb(65,75,86);
+  font-family:arial;
+  margin: 0px;
+  background-color: slategrey;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+main{
+  text-align: center;
+}
+
+h1{
+  padding: 2.5rem;
+}
