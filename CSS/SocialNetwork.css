@@ -1,0 +1,33 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
+body {
+  background-color: slategrey;
+  font-family: courier, serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+p {
+  font-size: 19px;
+}
+p {
+  margin: 20px;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 16px;
+}
