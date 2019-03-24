@@ -1,8 +1,9 @@
 body {
-  background-color: #504D4D;
+  background-color: slategrey;
+  font-family: courier, serif;
 }
 
 li{
   text-align: left;
-  
+
 }
