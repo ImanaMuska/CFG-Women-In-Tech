@@ -1,0 +1,35 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
+body {
+  background-color: #504D4D;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-family: verdana;
+}
+p {
+  font-family: verdana;
+  font-size: 19px;
+}
+p {
+  margin: 20px;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 16px;
+}
