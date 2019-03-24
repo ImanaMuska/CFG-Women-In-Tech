@@ -10,21 +10,19 @@ p {
   text-align: center;
 }
 body {
-  background-color: #504D4D;
+  background-color: slategrey;
+  font-family: courier, serif;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
-  font-family: verdana;
 }
 h2 {
   color: black;
   text-align: center;
-  font-family: verdana;
 }
 p {
-  font-family: verdana;
   font-size: 19px;
 }
 p {
